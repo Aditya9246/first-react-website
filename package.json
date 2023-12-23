@@ -2,7 +2,7 @@
   "name": "first-react-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aditya9246.github.io/first-react-website/",
+  "homepage": "https://aditya9246.github.io/first-react-website/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
